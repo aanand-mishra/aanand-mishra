@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aanand-mishra/aanand-mishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aanand Mishra
 
-Here are some ideas to get you started:
+### DSA • Web Development • Linux • Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aanand-mishra)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aanandmishra_)
+
+<br/>
+
+</div>
+
+## 🚀 About Me
+I am currently upskilling in **Web Development** and exploring **Data Structures and Algorithms**. My goal is to leverage these skills to build efficient software solutions.
+
+## ⚡ Tech Stack
+
+| Category | Skills |
+|:--|:--|
+| **Core** | `C` `C++` `Java` `Python` |
+| **Web** | `HTML5` `CSS3` `JavaScript` `React` `TypeScript` |
+| **Backend** | `Node.js` `MySQL` `MongoDB` |
+| **Data** | `NumPy` `Pandas` `Matplotlib` `Scikit-learn` |
+| **Tools** | `Git` `Docker` `DigitalOcean` `Figma` |
