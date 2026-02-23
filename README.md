@@ -1,4 +1,4 @@
-# Hey, I'm Andy 👋
+# Hey, I'm Aanand 👋
 
 I'm a developer from Bhubaneswar, India. I build backends and like experimenting with ML on the side. Still learning a lot, just sharing what I make along the way.
 
